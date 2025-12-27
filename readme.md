@@ -17,7 +17,7 @@ This repository curates the lecture and lab assets for the CSI 381 theory course
 ## Lecture–Lab Navigation Map
 | Lecture | Lecture Slides | Hands-on Lab | Key Themes |
 | --- | --- | --- | --- |
-| Lecture 1 | [Introduction to Data Mining and Knowledge Discovery](CSI%20381%20-%20Lecture%20Slides/CSI%20381%20-%20Lecture%201%20-%20Introduction%20to%20Data%20Mining%20and%20Knowledge%20Discovery.pdf) | [Lab 1: Python Primer Series](CSI%20382%20-%20Lab%20Notebooks/CSI%20382%20-%20Lab%201%20-%20Introduction%20to%20Python%20/) | Course overview, problem domains, practical Python refresh. |
+| Lecture 1 | [Introduction to Data Mining and Knowledge Discovery](CSI%20381%20-%20Lecture%20Slides/CSI%20381%20-%20Lecture%201%20-%20Introduction%20to%20Data%20Mining%20and%20Knowledge%20Discovery.pdf) | [Lab 1: Introduction to python](CSI%20382%20-%20Lab%20Notebooks/CSI%20382%20-%20Lab%201%20-%20Introduction%20to%20Python%20/) | Course overview, problem domains, practical Python refresh. |
 | Lecture 2 | [Data Preprocessing](CSI%20381%20-%20Lecture%20Slides/CSI%20381%20-%20Lecture%202%20-%20Data%20Preprocessing.pdf) | [Lab 2: Data Preprocessing](CSI%20382%20-%20Lab%20Notebooks/CSI%20382%20-%20Lab%202%20-%20Data%20Preprocessing.ipynb) | Cleaning, transformation, handling missing values. |
 | Lecture 3 | [Exploratory Data Analysis](CSI%20381%20-%20Lecture%20Slides/CSI%20381%20-%20Lecture%203%20-%20Exploratory%20Data%20Analysis.pdf) | [Lab 3: Exploratory Data Analysis (EDA)](CSI%20382%20-%20Lab%20Notebooks/CSI%20382%20-%20Lab%203%20-%20Exploratory%20Data%20Analysis%20(EDA).ipynb) | Descriptive statistics, visualization, pattern spotting. |
 | Lecture 4 | [Statistical Approaches to Estimation and Prediction](CSI%20381%20-%20Lecture%20Slides/CSI%20381%20-%20Lecture%204%20-%20Statistical%20Approaches%20to%20Estimation%20and%20Prediction.pdf) | [Lab 4: Statistical Approaches](CSI%20382%20-%20Lab%20Notebooks/CSI%20382%20-%20Lab%204%20-%20Statistical%20Approaches%20to%20Estimation%20and%20Prediction.ipynb) | Probabilistic modeling, estimation, prediction workflows. |
@@ -30,7 +30,7 @@ This repository curates the lecture and lab assets for the CSI 381 theory course
 
 ## Lab Notebooks in Detail
 - [CSI 382 - Lab 1 - Introduction to Python /](CSI%20382%20-%20Lab%20Notebooks/CSI%20382%20-%20Lab%201%20-%20Introduction%20to%20Python%20/) contains the seven-part Python refresher series and a workbook to prepare for subsequent labs.
-- [CSI 382 - Lab 2 - Data Preprocessing.ipynb](CSI%20382%20-%20Lab%20Notebooks/CSI%20382%20-%20Lab%202%20-%20Data%20Preprocessing.ipynb)
+- [CSI 382 - Lab 2 - Data Preprocessing.ipynb](CSI%20382%20-%20Lab%20Notebooks/CSI%20382%20-%20Lab%202%20-%20Data%20Preprocessing.ipynb) contains data cleaning, transformation, handling missing values.
 - [CSI 382 - Lab 3 - Exploratory Data Analysis (EDA).ipynb](CSI%20382%20-%20Lab%20Notebooks/CSI%20382%20-%20Lab%203%20-%20Exploratory%20Data%20Analysis%20(EDA).ipynb)
 - [CSI 382 - Lab 4 - Statistical Approaches to Estimation and Prediction.ipynb](CSI%20382%20-%20Lab%20Notebooks/CSI%20382%20-%20Lab%204%20-%20Statistical%20Approaches%20to%20Estimation%20and%20Prediction.ipynb)
 - [CSI 382 - Lab 5 - k-Nearest Neighbor Algorithm.ipynb](CSI%20382%20-%20Lab%20Notebooks/CSI%20382%20-%20Lab%205%20-%20k-Nearest%20Neighbor%20Algorithm.ipynb)
